@@ -10,6 +10,7 @@ h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
   color: blue;
+  margin-left: 30%;
 }
 
 nav {
